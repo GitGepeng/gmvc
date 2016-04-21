@@ -1,0 +1,3 @@
+﻿RewriteEngine on
+RewriteRule ^(.*)\.htm$ $1.php
+RewriteRule ^(.*)\.html$ $1.php
